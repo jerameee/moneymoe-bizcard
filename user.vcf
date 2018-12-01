@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Hermosillo;Ashley;;;
-FN: Ashley Hermosillo 
-ORG:W.I.P. BY GRACE;
+N:Hermosillo;Morgan;;;
+FN: Morgan Hermosillo 
+ORG:Money Moe Management;
 TITLE:Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:wipbygrace@gmail.com
-TEL;type=WORK;type=VOICE:915-422-4814
-item1.ADR;type=WORK;type=pref:;;Phoenix\,AZ ;;;85016;
+TEL;type=WORK;type=VOICE:415-422-4814
+item1.ADR;type=WORK;type=pref:;;  ;;;  ;
 item1.X-ABADR:sg
-item2.URL;type=pref:wipbygrace.com
+item2.URL;type=pref:moneymoemanagement.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
